@@ -1,1 +1,2 @@
-master config-prod
+config:
+    master config-prod
