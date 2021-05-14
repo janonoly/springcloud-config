@@ -1,1 +1,2 @@
-master config-test
+config:
+  master config-test
