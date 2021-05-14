@@ -1,1 +1,2 @@
-master config-dev 
+config:
+  master config-dev 
